@@ -14,7 +14,7 @@
 
 ![Установка модели](https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/Contr1.png)
 
-- Скачиваем интересующие модели Control Net [здесь]https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main
+- Скачиваем интересующие модели Control Net [здесь](https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main)
 
 ## Функции
 - Автоматическое улучшение эскизов: Преобразует эскизы в реалистичные изображения.
