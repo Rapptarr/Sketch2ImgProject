@@ -32,7 +32,7 @@ from g4f.client import Client
 from deep_translator import GoogleTranslator
 ```
 
-- Запускаем файл с кодом в pycharm
+- Запускаем файл с кодом v2.py в pycharm
 
 ## Функции
 - Автоматическое улучшение эскизов: Преобразует эскизы в реалистичные изображения.
