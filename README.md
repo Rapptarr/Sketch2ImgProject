@@ -16,6 +16,22 @@
 
 - Скачиваем интересующие модели Control Net [здесь](https://huggingface.co/lllyasviel/ControlNet-v1-1/tree/main)
 
+- В нашей работе использовались модели lineart, depth, normalmap, openpose
+
+## Запуск программы
+- Устанавливаем необходимые библиотеки
+```
+import telebot
+import requests
+import webuiapi
+
+from telebot import types
+from transformers import BlipProcessor, BlipForConditionalGeneration
+from PIL import Image
+from g4f.client import Client
+from deep_translator import GoogleTranslator
+```
+
 ## Функции
 - Автоматическое улучшение эскизов: Преобразует эскизы в реалистичные изображения.
 - Пользовательские промпты: Пользователи могут вводить свои собственные промпты для преобразования изображений.
