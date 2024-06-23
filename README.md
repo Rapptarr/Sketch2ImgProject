@@ -10,7 +10,7 @@
 -Переходим по ссылке и скачиваем [Stability Matrix](https://github.com/LykosAI/StabilityMatrix)
 - Во избежание технических проблем устанавливать рекомендуем по пути, установленному по умолчанию.
 - В Stability Matrix устанавливаем модель Stable Diffusion WebUI от AUTOMATIC1111.
-- В Stable Diffusion устанавливаем блок Control Net
+- В Stable Diffusion устанавливаем блок Control Net https://github.com/Mikubill/sd-webui-controlnet
 
 ![Установка модели](https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/Contr1.png)
 
