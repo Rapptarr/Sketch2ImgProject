@@ -30,8 +30,7 @@
 ##  Детальные шаги
 - Запуск бота: Пользователь инициирует взаимодействие, нажав "Приступить к работе".
 
-<img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%91%D0%BE%D1%821.jpg" width="300" height="620">
-<img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%91%D0%BE%D1%822.jpg" width="300" height="620">
+<img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%91%D0%BE%D1%821.jpg" width="300" height="620"> <img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%91%D0%BE%D1%822.jpg" width="300" height="620">
 
 - Ввод промпта: Пользователь может выбрать ввод пользовательского промпта или пропустить этот шаг.
 
