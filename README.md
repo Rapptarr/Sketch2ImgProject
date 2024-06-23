@@ -12,7 +12,7 @@
 - В Stability Matrix устанавливаем модель Stable Diffusion WebUI от AUTOMATIC1111.
 - В Stable Diffusion устанавливаем блок Control Net
 
-<img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/Contr1.png" width="1500" height="650">
+<img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/Contr1.png" width="2300" height="500">
 
 ## Функции
 - Автоматическое улучшение эскизов: Преобразует эскизы в реалистичные изображения.
