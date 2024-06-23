@@ -30,4 +30,4 @@
 ##  Детальные шаги
 - Запуск бота: Пользователь инициирует взаимодействие, нажав "Приступить к работе".
 
-![Пример работы](https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%91%D0%BE%D1%821.jpg width="200" height="200")
+![Пример работы](https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%91%D0%BE%D1%821.jpg=250×250)
