@@ -76,6 +76,6 @@ from deep_translator import GoogleTranslator
 
 <img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%91%D0%BE%D1%826.jpg" width="315" height="620">
 
-##  Детальные шаги
+##  Примеры работы
 
-<img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%91%D0%BE%D1%826.jpg" width="315" height="620">
+<img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%9F%D0%BE%D1%80%D1%88%D0%B51.jpg" width="315" height="620"> <img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%9F%D0%BE%D1%80%D1%88%D0%B52.jpg" width="315" height="620"> <img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%9F%D0%BE%D1%80%D1%88%D0%B53.jpg" width="315" height="620">
