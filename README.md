@@ -84,5 +84,10 @@ from deep_translator import GoogleTranslator
 
 <img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%9A%D0%BE%D1%821.jpg" width="500" height="620"> <img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%9A%D0%BE%D1%822.jpg" width="630" height="620">
 
-<img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%93%D0%BE%D1%80%D0%B01.jpg" width="550" height="520"> <img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%93%D0%BE%D1%80%D0%B02.jpg" width="550" height="620">
+<img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%93%D0%BE%D1%80%D0%B01.jpg" width="630" height="520">
+<img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%93%D0%BE%D1%80%D0%B02.jpg" width="630" height="620">
 <img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%93%D0%BE%D1%80%D0%B03.jpg" width="630" height="620">
+
+<img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%94%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B01.jpg" width="630" height="520">
+<img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%94%D0%B2%D1%83%D1%88%D0%BA%D0%B02.jpg" width="630" height="620">
+<img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%94%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B03.jpg" width="630" height="620">
