@@ -75,3 +75,7 @@ from deep_translator import GoogleTranslator
 - Получение улучшенного изображения: Бот обрабатывает изображение и возвращает улучшенную версию.
 
 <img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%91%D0%BE%D1%826.jpg" width="315" height="620">
+
+##  Детальные шаги
+
+<img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%91%D0%BE%D1%826.jpg" width="315" height="620">
