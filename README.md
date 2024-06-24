@@ -56,7 +56,8 @@ from deep_translator import GoogleTranslator
 - Client (GPT-3.5-turbo): Для генерации промптов.
 
 ##  Детальные шаги
-- Бот находится в телеграме по адресу @image_improvebot
+- Бот находится в телеграме по адресу @image_improvebot.
+
 - Запуск бота: Пользователь инициирует взаимодействие, нажав "Приступить к работе".
 
 <img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%91%D0%BE%D1%821.jpg" width="315" height="620"> <img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%91%D0%BE%D1%822.jpg" width="315" height="620">
