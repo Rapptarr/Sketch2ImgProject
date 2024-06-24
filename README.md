@@ -31,6 +31,11 @@ from PIL import Image
 from g4f.client import Client
 from deep_translator import GoogleTranslator
 ```
+- Вставляем токен для чат-бота
+```
+TOKEN = "7362722759:AAHJZ9IJrgi55briADuAfn4czzHKDesQfYk"
+bot = telebot.TeleBot(TOKEN)
+```
 
 - Запускаем файл с кодом v2.py в pycharm
 
