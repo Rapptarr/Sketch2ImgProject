@@ -81,5 +81,4 @@ from deep_translator import GoogleTranslator
 <img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%9F%D0%BE%D1%80%D1%88%D0%B51.jpg" width="750" height="620"> <img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%9F%D0%BE%D1%80%D1%88%D0%B52.jpg" width="630" height="620">
 <img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%9F%D0%BE%D1%80%D1%88%D0%B53.jpg" width="630" height="620">
 
-<img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%9A%D0%BE%D1%821.jpg" width="630" height="620">
-<img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%9A%D0%BE%D1%822.jpg" width="630" height="620">
+<img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%9A%D0%BE%D1%821.jpg" width="500" height="620"> <img src="https://github.com/Rapptarr/Sketch2ImgProject/blob/main/screenshots/%D0%9A%D0%BE%D1%822.jpg" width="630" height="620">
